@@ -1,2 +1,3 @@
 library(DBI)
-library(tidyverse) #Hello world
+library(tidyverse) #world hello
+library(ggplot2)
